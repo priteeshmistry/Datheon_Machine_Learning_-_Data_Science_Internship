@@ -1,0 +1,1251 @@
+review_id,review_text,sentiment
+1,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+2,Brilliant design and wonderful execution. Everything works straight out of the box with zero fuss.,positive
+3,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+4,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+5,A game-changer for my daily productivity. charging speed saves me hours every single week.,positive
+6,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+7,Do not waste your money on this smartphone. Plenty of exceptional alternatives available for cheaper.,negative
+8,"I was hesitant at first, but this laptop turned out to be fantastic. Highly recommend to everyone!",positive
+9,Great value and durable build. Would definitely purchase again.,positive
+10,"... Poor performance, terrible build quality, and zero customer support. Avoid at all costs! <br />",negative
+11,"<p> Great power bank for the price. Fast delivery, fantastic customer support, and very reliable. </b>",positive
+12,Absolutely love this power bank. It has phenomenal build quality and charging speed is seamless.,positive
+13,... Outstanding performance! sound quality is super fast and battery life lasts all day without issues. <p>,positive
+14,"The product quality is exceptional, exceeded all my expectations!",positive
+15,A game-changer for my daily productivity. software ecosystem saves me hours every single week.,positive
+16,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+17,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+18,"<br /> Great robot vacuum for the price. Fast delivery, exceptional customer support, and very reliable.  :(",positive
+19,Five stars! The external SSD arrived earlier than promised and was packaged with great care.,positive
+20,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+21,Brilliant design and terrific execution. Everything works straight out of the box with zero fuss.,positive
+22,"Decent build, but the sound quality could be improved. Fair for the discounted price.",neutral
+23,Misleading product description! The microphone lacks the advertised software ecosystem and battery drains fast.,negative
+24,Customer service was rude and refused to issue a refund for the defective fitness tracker.,negative
+25,</b> Five stars! The bluetooth speaker arrived earlier than promised and was packaged with great care.  :),positive
+26,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+27,The smartphone stopped charging after three days. Complete waste of hard-earned money.,negative
+28,Brilliant design and premium execution. Everything works straight out of the box with zero fuss.,positive
+29,Terrible smartphone! Stopped working after two days and customer support was completely useless.,negative
+30,"I was hesitant at first, but this mechanical keyboard turned out to be terrific. Highly recommend to everyone!",positive
+31,Incredible value for money! I have recommended this bluetooth speaker to all my colleagues.,positive
+32,</p> A game-changer for my daily productivity. charging speed saves me hours every single week. <b>,positive
+33,The software ecosystem is completely broken and lags terribly. Extremely frustrated with this item.,negative
+34,Best purchase I have made all year! Top-tier data transfer rate and the quality feels extremely durable.,positive
+35,</p> Absolutely love this webcam. It has superb build quality and build craftsmanship is seamless. <br />,positive
+36,<br /><br /> Absolutely love this gaming mouse. It has terrific build quality and touchscreen response is seamless. !!,positive
+37,"Flimsy materials, noisy operation, and the software ecosystem barely functions. Very unhappy.",negative
+38,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+39,"<b> Flimsy materials, noisy operation, and the sound quality barely functions. Very unhappy. !!",negative
+40,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+41,"The fitness tracker is okay for basic tasks. Nothing special, average performance.",neutral
+42,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+43,... Very disappointed with this purchase. The power bank feels flimsy and setup process constantly fails.,negative
+44,The sound quality is completely broken and lags terribly. Extremely frustrated with this item.,negative
+45,"<p> I was hesitant at first, but this bluetooth speaker turned out to be phenomenal. Highly recommend to everyone!  :)",positive
+46,Incredible value for money! I have recommended this tablet to all my colleagues.,positive
+47,"Standard shipping and ordinary packaging. It works as described, no major complaints.",neutral
+48,":( I was hesitant at first, but this gaming mouse turned out to be reliable. Highly recommend to everyone!",positive
+49,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+50,Outstanding performance! setup process is super fast and battery life lasts all day without issues.,positive
+51,"Decent build, but the build craftsmanship could be improved. Fair for the discounted price.",neutral
+52,Do not waste your money on this mechanical keyboard. Plenty of superb alternatives available for cheaper.,negative
+53,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+54,:( The robot vacuum stopped charging after three days. Complete waste of hard-earned money. <b>,negative
+55,Terrible noise-canceling headphones! Stopped working after ten days and customer support was completely useless.,negative
+56,"Great office chair for the price. Fast delivery, fantastic customer support, and very reliable.",positive
+57,Super clean interface and superb performance. The touchscreen response makes daily workflow effortless.,positive
+58,</p> Unusable software and complicated setup instructions. Totally regret buying this. <br />,negative
+59,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+60,</b> Brilliant design and exceptional execution. Everything works straight out of the box with zero fuss. <p>,positive
+61,"Flimsy materials, noisy operation, and the display brightness barely functions. Very unhappy.",negative
+62,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+63,"The build is solid, the touchscreen response is intuitive, and it looks beautiful on my desk.",positive
+64,Absolutely love this smartphone. It has flawless build quality and ergonomic design is seamless. <br />,positive
+65,"I was hesitant at first, but this smart thermostat turned out to be flawless. Highly recommend to everyone!",positive
+66,The microphone is impressive! data transfer rate works wonderfully and exceeded all my expectations.,positive
+67,Five stars! The office chair arrived earlier than promised and was packaged with great care. </b>,positive
+68,Absolutely love this power bank. It has phenomenal build quality and touchscreen response is seamless.,positive
+69,Incredible value for money! I have recommended this coffee maker to all my colleagues.,positive
+70,</p> Super clean interface and premium performance. The build craftsmanship makes daily workflow effortless. <br />,positive
+71,Misleading product description! The laptop lacks the advertised charging speed and battery drains fast.,negative
+72,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+73,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+74,<br /><br /> A game-changer for my daily productivity. connectivity saves me hours every single week. </p>,positive
+75,A game-changer for my daily productivity. display brightness saves me hours every single week.,positive
+76,Customer service was rude and refused to issue a refund for the defective mechanical keyboard.,negative
+77,":) Flimsy materials, noisy operation, and the setup process barely functions. Very unhappy.  :(",negative
+78,:) Incredible value for money! I have recommended this bluetooth speaker to all my colleagues. <b>,positive
+79,Arrived flimsy with missing parts. Return process was frustrating and slow.,negative
+80,Misleading product description! The noise-canceling headphones lacks the advertised sound quality and battery drains fast.,negative
+81,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+82,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+83,Super clean interface and reliable performance. The sound quality makes daily workflow effortless.,positive
+84,Outstanding performance! connectivity is super fast and battery life lasts all day without issues.,positive
+85,The wireless earbuds is wonderful! build craftsmanship works flawlessly and exceeded all my expectations. <p>,positive
+86,Do not waste your money on this monitor. Plenty of phenomenal alternatives available for cheaper.,negative
+87,<br /> Cheap plastic construction and poor quality control. Broke during the very first week. !!,negative
+88,<b> Misleading product description! The fitness tracker lacks the advertised setup process and battery drains fast. <p>,negative
+89,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+90,Absolutely love this wireless earbuds. It has reliable build quality and data transfer rate is seamless.,positive
+91,<b> Arrived cheap with missing parts. Return process was frustrating and slow. <br /><br />,negative
+92,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+93,:( Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.  :),negative
+94,Incredible value for money! I have recommended this smartwatch to all my colleagues. <br /><br />,positive
+95,Outstanding performance! data transfer rate is super fast and battery life lasts all day without issues.,positive
+96,"The build is solid, the ergonomic design is intuitive, and it looks beautiful on my desk.",positive
+97,The laptop is impressive! touchscreen response works smoothly and exceeded all my expectations.,positive
+98,Best purchase I have made all year! Top-tier software ecosystem and the quality feels extremely durable.,positive
+99,"<b> I was hesitant at first, but this noise-canceling headphones turned out to be wonderful. Highly recommend to everyone!",positive
+100,"Flimsy materials, noisy operation, and the ergonomic design barely functions. Very unhappy.",negative
+101,Clean interface and intuitive controls. Highly recommended for students.,positive
+102,"The build is solid, the touchscreen response is intuitive, and it looks beautiful on my desk.",positive
+103,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+104,The external SSD stopped charging after three days. Complete waste of hard-earned money.,negative
+105,Best purchase I have made all year! Top-tier battery life and the quality feels extremely durable.,positive
+106,Customer service was rude and refused to issue a refund for the defective monitor.,negative
+107,Terrible fitness tracker! Stopped working after ten days and customer support was completely useless.,negative
+108,"The build is solid, the software ecosystem is intuitive, and it looks beautiful on my desk.",positive
+109,"I was hesitant at first, but this mechanical keyboard turned out to be impressive. Highly recommend to everyone!",positive
+110,!! Best purchase I have made all year! Top-tier data transfer rate and the quality feels extremely durable. <p>,positive
+111,Terrible coffee maker! Stopped working after a few hours and customer support was completely useless.,negative
+112,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+113,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+114,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+115,Super clean interface and premium performance. The touchscreen response makes daily workflow effortless.,positive
+116,Incredible value for money! I have recommended this robot vacuum to all my colleagues.,positive
+117,<br /> Terrible microphone! Stopped working after ten days and customer support was completely useless. <b>,negative
+118,Brilliant design and flawless execution. Everything works straight out of the box with zero fuss.,positive
+119,</p> Five stars! The wireless earbuds arrived earlier than promised and was packaged with great care.  :(,positive
+120,:) The touchscreen response is completely broken and lags terribly. Extremely frustrated with this item. !!,negative
+121,Absolutely love this mechanical keyboard. It has wonderful build quality and data transfer rate is seamless.,positive
+122,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+123,"Standard shipping and ordinary packaging. It works as described, no major complaints.",neutral
+124,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+125,</b> Best purchase I have made all year! Top-tier connectivity and the quality feels extremely durable. <br />,positive
+126,<p> Super clean interface and reliable performance. The build craftsmanship makes daily workflow effortless. <b>,positive
+127,Misleading product description! The microphone lacks the advertised software ecosystem and battery drains fast.,negative
+128,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+129,Terrible smartphone! Stopped working after three days and customer support was completely useless.,negative
+130,</b> Overheating issues and constant software crashes. Definitely returning this tomorrow. <br />,negative
+131,Do not waste your money on this noise-canceling headphones. Plenty of delightful alternatives available for cheaper.,negative
+132,Incredible value for money! I have recommended this gaming mouse to all my colleagues.,positive
+133,<p> Do not waste your money on this mechanical keyboard. Plenty of premium alternatives available for cheaper.  :),negative
+134,Five stars! The smartwatch arrived earlier than promised and was packaged with great care.,positive
+135,"Flimsy materials, noisy operation, and the display brightness barely functions. Very unhappy.",negative
+136,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+137,The ergonomic design is completely broken and lags terribly. Extremely frustrated with this item.,negative
+138,"Exceeded expectations in every regard. High quality materials, premium sound, and sleek finish.",positive
+139,</b> Overheating issues and constant software crashes. Definitely returning this tomorrow.  :(,negative
+140,Very disappointed with this purchase. The monitor feels subpar and ergonomic design constantly fails.,negative
+141,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+142,Very disappointed with this purchase. The coffee maker feels frustrating and data transfer rate constantly fails.,negative
+143,Terrible monitor! Stopped working after three days and customer support was completely useless.,negative
+144,Absolutely love this monitor. It has brilliant build quality and battery life is seamless.,positive
+145,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+146,Brilliant design and terrific execution. Everything works straight out of the box with zero fuss.,positive
+147,Incredible value for money! I have recommended this mechanical keyboard to all my colleagues.,positive
+148,Absolutely love this smartphone. It has impressive build quality and data transfer rate is seamless.,positive
+149,<br /><br /> Cheap plastic construction and poor quality control. Broke during the very first week. <p>,negative
+150,</b> Five stars! The smartwatch arrived earlier than promised and was packaged with great care.,positive
+151,Very disappointed with this purchase. The power bank feels dreadful and touchscreen response constantly fails.,negative
+152,Very disappointed with this purchase. The robot vacuum feels defective and build craftsmanship constantly fails.,negative
+153,"The build is solid, the sound quality is intuitive, and it looks beautiful on my desk.",positive
+154,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+155,"Flimsy materials, noisy operation, and the setup process barely functions. Very unhappy.",negative
+156,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+157,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+158,Delivery was slow and package was missing one adapter cable.,negative
+159,Outstanding performance! charging speed is super fast and battery life lasts all day without issues.,positive
+160,!! Very disappointed with this purchase. The office chair feels dreadful and setup process constantly fails. <p>,negative
+161,Five stars! The gaming mouse arrived earlier than promised and was packaged with great care.,positive
+162,Incredible value for money! I have recommended this power bank to all my colleagues.,positive
+163,Super clean interface and phenomenal performance. The display brightness makes daily workflow effortless.,positive
+164,Arrived awful with missing parts. Return process was frustrating and slow.,negative
+165,"The build is solid, the display brightness is intuitive, and it looks beautiful on my desk.",positive
+166,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+167,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+168,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+169,Do not waste your money on this power bank. Plenty of fantastic alternatives available for cheaper.,negative
+170,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+171,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+172,:) Arrived unreliable with missing parts. Return process was frustrating and slow.,negative
+173,Customer service was rude and refused to issue a refund for the defective smartwatch.,negative
+174,"Exceeded expectations in every regard. High quality materials, brilliant sound, and sleek finish.",positive
+175,<p> Incredible value for money! I have recommended this microphone to all my colleagues.  :(,positive
+176,Incredible value for money! I have recommended this office chair to all my colleagues. <br />,positive
+177,"The build is solid, the display brightness is intuitive, and it looks beautiful on my desk.",positive
+178,</p> The mechanical keyboard is premium! display brightness works reliably and exceeded all my expectations. <b>,positive
+179,"Exceeded expectations in every regard. High quality materials, premium sound, and sleek finish.",positive
+180,The display brightness is completely broken and lags terribly. Extremely frustrated with this item.,negative
+181,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+182,</p> A game-changer for my daily productivity. setup process saves me hours every single week. <br /><br />,positive
+183,Misleading product description! The fitness tracker lacks the advertised touchscreen response and battery drains fast.,negative
+184,Terrible customer service and the item arrived completely damaged.,negative
+185,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+186,</b> A game-changer for my daily productivity. setup process saves me hours every single week. <br /><br />,positive
+187,Absolutely love this gaming mouse. It has fantastic build quality and connectivity is seamless.,positive
+188,Customer service was rude and refused to issue a refund for the defective office chair.,negative
+189,Outstanding performance! charging speed is super fast and battery life lasts all day without issues.,positive
+190,</p> Misleading product description! The noise-canceling headphones lacks the advertised sound quality and battery drains fast. <br /><br />,negative
+191,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+192,"<b> Poor performance, terrible build quality, and zero customer support. Avoid at all costs! <p>",negative
+193,Five stars! The webcam arrived earlier than promised and was packaged with great care.,positive
+194,Misleading product description! The fitness tracker lacks the advertised battery life and battery drains fast.,negative
+195,<br /> Do not waste your money on this robot vacuum. Plenty of fantastic alternatives available for cheaper.,negative
+196,Five stars! The bluetooth speaker arrived earlier than promised and was packaged with great care.,positive
+197,":) Flimsy materials, noisy operation, and the battery life barely functions. Very unhappy. <br /><br />",negative
+198,":( I was hesitant at first, but this microphone turned out to be delightful. Highly recommend to everyone! !!",positive
+199,Misleading product description! The office chair lacks the advertised connectivity and battery drains fast.,negative
+200,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+201,"The build is solid, the data transfer rate is intuitive, and it looks beautiful on my desk.",positive
+202,The bluetooth speaker stopped charging after three days. Complete waste of hard-earned money.,negative
+203,Customer service was rude and refused to issue a refund for the defective smartwatch.,negative
+204,Very disappointed with this purchase. The gaming mouse feels terrible and battery life constantly fails.,negative
+205,!! Misleading product description! The power bank lacks the advertised sound quality and battery drains fast. </b>,negative
+206,A game-changer for my daily productivity. ergonomic design saves me hours every single week.,positive
+207,"</p> Exceeded expectations in every regard. High quality materials, durable sound, and sleek finish. <p>",positive
+208,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+209,"<br /><br /> Poor performance, terrible build quality, and zero customer support. Avoid at all costs! <b>",negative
+210,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+211,Do not waste your money on this coffee maker. Plenty of exceptional alternatives available for cheaper.,negative
+212,Customer service was rude and refused to issue a refund for the defective office chair.,negative
+213,Absolutely love this office chair. It has flawless build quality and battery life is seamless.,positive
+214,:) Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes. <br />,positive
+215,Customer service was rude and refused to issue a refund for the defective noise-canceling headphones.,negative
+216,"Flimsy materials, noisy operation, and the software ecosystem barely functions. Very unhappy.",negative
+217,Brilliant design and superb execution. Everything works straight out of the box with zero fuss.,positive
+218,<b> Incredible value for money! I have recommended this laptop to all my colleagues.  :),positive
+219,Arrived unreliable with missing parts. Return process was frustrating and slow.,negative
+220,Stopped working after two days. Extremely disappointed with the purchase.,negative
+221,"The build is solid, the software ecosystem is intuitive, and it looks beautiful on my desk.",positive
+222,Do not waste your money on this coffee maker. Plenty of premium alternatives available for cheaper.,negative
+223,<br /> Outstanding performance! touchscreen response is super fast and battery life lasts all day without issues.,positive
+224,A game-changer for my daily productivity. connectivity saves me hours every single week.,positive
+225,The smartwatch is reliable! ergonomic design works smoothly and exceeded all my expectations.,positive
+226,Super clean interface and durable performance. The build craftsmanship makes daily workflow effortless.,positive
+227,Outstanding performance! sound quality is super fast and battery life lasts all day without issues.,positive
+228,Super clean interface and impressive performance. The noise isolation makes daily workflow effortless.,positive
+229,Terrible smartwatch! Stopped working after two days and customer support was completely useless.,negative
+230,Average quality power bank. Meets minimum requirements but lacks advanced features.,neutral
+231,Absolutely love this smartphone. It has terrific build quality and ergonomic design is seamless.,positive
+232,"The build is solid, the software ecosystem is intuitive, and it looks beautiful on my desk.",positive
+233,:) Customer service was rude and refused to issue a refund for the defective power bank. !!,negative
+234,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+235,"Great webcam for the price. Fast delivery, brilliant customer support, and very reliable.",positive
+236,"The build is solid, the battery life is intuitive, and it looks beautiful on my desk.",positive
+237,</p> Worst experience ever. Delivery was delayed by two weeks and package arrived crushed. </b>,negative
+238,Brilliant design and premium execution. Everything works straight out of the box with zero fuss.,positive
+239,<br /> Brilliant design and delightful execution. Everything works straight out of the box with zero fuss. <b>,positive
+240,Terrible external SSD! Stopped working after three days and customer support was completely useless.,negative
+241,"Received as expected. It does the job adequately, neither impressive nor terrible.",neutral
+242,"Great smart thermostat for the price. Fast delivery, flawless customer support, and very reliable.",positive
+243,":( I was hesitant at first, but this fitness tracker turned out to be exceptional. Highly recommend to everyone! !!",positive
+244,"Flimsy materials, noisy operation, and the display brightness barely functions. Very unhappy.",negative
+245,Arrived terrible with missing parts. Return process was frustrating and slow.,negative
+246,Customer service was rude and refused to issue a refund for the defective smartphone.,negative
+247,"Decent build, but the build craftsmanship could be improved. Fair for the discounted price.",neutral
+248,:) Customer service was rude and refused to issue a refund for the defective mechanical keyboard. !!,negative
+249,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+250,"The build is solid, the noise isolation is intuitive, and it looks beautiful on my desk.",positive
+251,Misleading product description! The office chair lacks the advertised touchscreen response and battery drains fast.,negative
+252,Absolutely love this smartwatch. It has durable build quality and touchscreen response is seamless.,positive
+253,The charging speed is completely broken and lags terribly. Extremely frustrated with this item.,negative
+254,Best purchase I have made all year! Top-tier charging speed and the quality feels extremely durable.,positive
+255,Very disappointed with this purchase. The smartwatch feels damaged and data transfer rate constantly fails.,negative
+256,<b> The webcam stopped charging after three days. Complete waste of hard-earned money.  :),negative
+257,"Flimsy materials, noisy operation, and the build craftsmanship barely functions. Very unhappy.",negative
+258,"Great external SSD for the price. Fast delivery, reliable customer support, and very reliable.",positive
+259,Absolutely love this smart thermostat. It has terrific build quality and connectivity is seamless.,positive
+260,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+261,A game-changer for my daily productivity. noise isolation saves me hours every single week.,positive
+262,<b> Five stars! The tablet arrived earlier than promised and was packaged with great care. <br />,positive
+263,</b> Absolutely love this external SSD. It has brilliant build quality and software ecosystem is seamless. </p>,positive
+264,Five stars! The monitor arrived earlier than promised and was packaged with great care.,positive
+265,"<br /> Poor performance, terrible build quality, and zero customer support. Avoid at all costs! <p>",negative
+266,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+267,<b> Incredible value for money! I have recommended this robot vacuum to all my colleagues.  :(,positive
+268,A game-changer for my daily productivity. noise isolation saves me hours every single week.,positive
+269,Terrible robot vacuum! Stopped working after three days and customer support was completely useless.,negative
+270,"Great fitness tracker for the price. Fast delivery, brilliant customer support, and very reliable.",positive
+271,Customer service was rude and refused to issue a refund for the defective office chair.,negative
+272,The external SSD is phenomenal! charging speed works reliably and exceeded all my expectations.,positive
+273,Incredible value for money! I have recommended this gaming mouse to all my colleagues.,positive
+274,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+275,"The build is solid, the build craftsmanship is intuitive, and it looks beautiful on my desk.",positive
+276,The office chair stopped charging after three days. Complete waste of hard-earned money.,negative
+277,Absolutely love this office chair. It has durable build quality and ergonomic design is seamless.,positive
+278,"Received as expected. It does the job adequately, neither impressive nor terrible.",neutral
+279,<br /><br /> Terrible fitness tracker! Stopped working after ten days and customer support was completely useless. <p>,negative
+280,Five stars! The gaming mouse arrived earlier than promised and was packaged with great care.,positive
+281,Arrived unreliable with missing parts. Return process was frustrating and slow.,negative
+282,"Flimsy materials, noisy operation, and the data transfer rate barely functions. Very unhappy.",negative
+283,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+284,Terrible noise-canceling headphones! Stopped working after two weeks and customer support was completely useless.,negative
+285,"Flimsy materials, noisy operation, and the touchscreen response barely functions. Very unhappy.",negative
+286,Absolutely love this smartphone. It has terrific build quality and ergonomic design is seamless.,positive
+287,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+288,Incredible value for money! I have recommended this noise-canceling headphones to all my colleagues.,positive
+289,"The build is solid, the charging speed is intuitive, and it looks beautiful on my desk.",positive
+290,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+291,"<b> I was hesitant at first, but this laptop turned out to be flawless. Highly recommend to everyone! </p>",positive
+292,"I was hesitant at first, but this fitness tracker turned out to be top-notch. Highly recommend to everyone!",positive
+293,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+294,Super clean interface and reliable performance. The charging speed makes daily workflow effortless.,positive
+295,:) Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes. <br /><br />,positive
+296,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+297,Five stars! The bluetooth speaker arrived earlier than promised and was packaged with great care.,positive
+298,:( Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+299,Absolutely love this power bank. It has impressive build quality and display brightness is seamless.,positive
+300,<br /><br /> Brilliant design and terrific execution. Everything works straight out of the box with zero fuss. <br />,positive
+301,Customer service was rude and refused to issue a refund for the defective mechanical keyboard.,negative
+302,"Flimsy materials, noisy operation, and the data transfer rate barely functions. Very unhappy.",negative
+303,"Great power bank for the price. Fast delivery, exceptional customer support, and very reliable.",positive
+304,Customer service was rude and refused to issue a refund for the defective mechanical keyboard.,negative
+305,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+306,A game-changer for my daily productivity. software ecosystem saves me hours every single week.,positive
+307,Terrible tablet! Stopped working after a few hours and customer support was completely useless.,negative
+308,Brilliant design and top-notch execution. Everything works straight out of the box with zero fuss.,positive
+309,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+310,Do not waste your money on this mechanical keyboard. Plenty of reliable alternatives available for cheaper.,negative
+311,Best purchase I have made all year! Top-tier noise isolation and the quality feels extremely durable.,positive
+312,<b> Incredible value for money! I have recommended this power bank to all my colleagues.,positive
+313,<p> Very disappointed with this purchase. The external SSD feels horrible and touchscreen response constantly fails. </p>,negative
+314,A game-changer for my daily productivity. connectivity saves me hours every single week.,positive
+315,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+316,:( Cheap plastic construction and poor quality control. Broke during the very first week. </p>,negative
+317,Misleading product description! The fitness tracker lacks the advertised setup process and battery drains fast.,negative
+318,Absolutely love this smartphone. It has impressive build quality and display brightness is seamless.,positive
+319,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+320,Outstanding performance! build craftsmanship is super fast and battery life lasts all day without issues.,positive
+321,The software ecosystem is completely broken and lags terribly. Extremely frustrated with this item.,negative
+322,Arrived dreadful with missing parts. Return process was frustrating and slow. <b>,negative
+323,Misleading product description! The coffee maker lacks the advertised connectivity and battery drains fast.,negative
+324,Very disappointed with this purchase. The robot vacuum feels dreadful and battery life constantly fails.,negative
+325,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+326,Incredible value for money! I have recommended this monitor to all my colleagues.,positive
+327,<br /> Brilliant design and durable execution. Everything works straight out of the box with zero fuss. ...,positive
+328,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+329,Absolutely love this robot vacuum. It has delightful build quality and connectivity is seamless.,positive
+330,"I was hesitant at first, but this robot vacuum turned out to be terrific. Highly recommend to everyone!",positive
+331,"I was hesitant at first, but this microphone turned out to be impressive. Highly recommend to everyone!",positive
+332,Arrived horrible with missing parts. Return process was frustrating and slow.,negative
+333,"Exceeded expectations in every regard. High quality materials, wonderful sound, and sleek finish.",positive
+334,Very disappointed with this purchase. The robot vacuum feels broken and noise isolation constantly fails.,negative
+335,Best purchase I have made all year! Top-tier touchscreen response and the quality feels extremely durable.,positive
+336,<b> Very disappointed with this purchase. The gaming mouse feels damaged and sound quality constantly fails. </b>,negative
+337,Absolutely love this mechanical keyboard. It has superb build quality and software ecosystem is seamless.,positive
+338,Average quality tablet. Meets minimum requirements but lacks advanced features.,neutral
+339,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+340,Five stars! The noise-canceling headphones arrived earlier than promised and was packaged with great care.,positive
+341,Do not waste your money on this gaming mouse. Plenty of brilliant alternatives available for cheaper.,negative
+342,"The coffee maker is okay for basic tasks. Nothing special, average performance.",neutral
+343,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+344,A game-changer for my daily productivity. battery life saves me hours every single week.,positive
+345,"... Exceeded expectations in every regard. High quality materials, impressive sound, and sleek finish. !!",positive
+346,<p> Delivered promptly and functioned flawlessly from day one. Truly a fantastic product! <b>,positive
+347,"Standard shipping and ordinary packaging. It works as described, no major complaints.",neutral
+348,The noise-canceling headphones is premium! build craftsmanship works reliably and exceeded all my expectations.,positive
+349,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+350,Do not waste your money on this robot vacuum. Plenty of exceptional alternatives available for cheaper.,negative
+351,Arrived dreadful with missing parts. Return process was frustrating and slow.,negative
+352,"The build is solid, the build craftsmanship is intuitive, and it looks beautiful on my desk.",positive
+353,<p> The data transfer rate is completely broken and lags terribly. Extremely frustrated with this item. ...,negative
+354,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+355,Do not waste your money on this bluetooth speaker. Plenty of flawless alternatives available for cheaper.,negative
+356,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+357,The mechanical keyboard stopped charging after three days. Complete waste of hard-earned money.,negative
+358,A game-changer for my daily productivity. data transfer rate saves me hours every single week.,positive
+359,"Exceeded expectations in every regard. High quality materials, delightful sound, and sleek finish.",positive
+360,The wireless earbuds is brilliant! setup process works reliably and exceeded all my expectations.,positive
+361,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+362,</p> A game-changer for my daily productivity. ergonomic design saves me hours every single week. <p>,positive
+363,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+364,":( I was hesitant at first, but this bluetooth speaker turned out to be fantastic. Highly recommend to everyone! </b>",positive
+365,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+366,Customer service was rude and refused to issue a refund for the defective fitness tracker.,negative
+367,"I was hesitant at first, but this monitor turned out to be superb. Highly recommend to everyone!",positive
+368,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+369,"Exceeded expectations in every regard. High quality materials, premium sound, and sleek finish.",positive
+370,<br /> The smartphone is reliable! touchscreen response works brilliantly and exceeded all my expectations.  :),positive
+371,"Flimsy materials, noisy operation, and the connectivity barely functions. Very unhappy.",negative
+372,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+373,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product! </b>,positive
+374,Arrived unreliable with missing parts. Return process was frustrating and slow.,negative
+375,The build craftsmanship is completely broken and lags terribly. Extremely frustrated with this item. <p>,negative
+376,Misleading product description! The smartphone lacks the advertised display brightness and battery drains fast.,negative
+377,:) Cheap plastic construction and poor quality control. Broke during the very first week. </b>,negative
+378,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+379,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+380,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+381,:( A game-changer for my daily productivity. software ecosystem saves me hours every single week.  :),positive
+382,"Flimsy materials, noisy operation, and the sound quality barely functions. Very unhappy.",negative
+383,The laptop stopped charging after three days. Complete waste of hard-earned money.,negative
+384,"The build is solid, the data transfer rate is intuitive, and it looks beautiful on my desk.",positive
+385,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+386,:) Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes. </b>,positive
+387,<br /><br /> Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+388,Do not waste your money on this smartphone. Plenty of terrific alternatives available for cheaper.,negative
+389,<br /><br /> Cheap plastic construction and poor quality control. Broke during the very first week. </b>,negative
+390,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+391,"I was hesitant at first, but this microphone turned out to be superb. Highly recommend to everyone!",positive
+392,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+393,<b> Very disappointed with this purchase. The smartphone feels horrible and display brightness constantly fails. <br />,negative
+394,<b> Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+395,Terrible microphone! Stopped working after two weeks and customer support was completely useless.,negative
+396,<b> Worst experience ever. Delivery was delayed by two weeks and package arrived crushed. <b>,negative
+397,Outstanding performance! software ecosystem is super fast and battery life lasts all day without issues.,positive
+398,Incredible value for money! I have recommended this webcam to all my colleagues.,positive
+399,Misleading product description! The office chair lacks the advertised connectivity and battery drains fast.,negative
+400,Customer service was rude and refused to issue a refund for the defective webcam. <br /><br />,negative
+401,The software ecosystem is completely broken and lags terribly. Extremely frustrated with this item.,negative
+402,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+403,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+404,... Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.  :),negative
+405,... Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes. !!,positive
+406,"The build is solid, the setup process is intuitive, and it looks beautiful on my desk.",positive
+407,The smartphone stopped charging after three days. Complete waste of hard-earned money.,negative
+408,"Great office chair for the price. Fast delivery, superb customer support, and very reliable.",positive
+409,<br /><br /> Arrived awful with missing parts. Return process was frustrating and slow.,negative
+410,Misleading product description! The wireless earbuds lacks the advertised charging speed and battery drains fast.,negative
+411,Arrived unreliable with missing parts. Return process was frustrating and slow.,negative
+412,"I was hesitant at first, but this coffee maker turned out to be delightful. Highly recommend to everyone!",positive
+413,<b> Overheating issues and constant software crashes. Definitely returning this tomorrow. </p>,negative
+414,:) Terrible robot vacuum! Stopped working after two days and customer support was completely useless. </p>,negative
+415,:( Subpar quality that does not justify the high price tag. Very dissatisfied. <b>,negative
+416,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+417,The power bank stopped charging after three days. Complete waste of hard-earned money.,negative
+418,</p> Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes. </b>,positive
+419,"Exceeded expectations in every regard. High quality materials, flawless sound, and sleek finish.",positive
+420,Average quality robot vacuum. Meets minimum requirements but lacks advanced features.,neutral
+421,"I was hesitant at first, but this robot vacuum turned out to be impressive. Highly recommend to everyone!",positive
+422,Outstanding performance! setup process is super fast and battery life lasts all day without issues.,positive
+423,Absolutely love this fitness tracker. It has fantastic build quality and connectivity is seamless.,positive
+424,The charging speed is completely broken and lags terribly. Extremely frustrated with this item.,negative
+425,"Great external SSD for the price. Fast delivery, superb customer support, and very reliable.",positive
+426,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+427,Very disappointed with this purchase. The microphone feels cheap and sound quality constantly fails.,negative
+428,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+429,Arrived terrible with missing parts. Return process was frustrating and slow.,negative
+430,"I was hesitant at first, but this gaming mouse turned out to be premium. Highly recommend to everyone!",positive
+431,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+432,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+433,<br /> Absolutely love this robot vacuum. It has flawless build quality and display brightness is seamless. </b>,positive
+434,The tablet is phenomenal! charging speed works brilliantly and exceeded all my expectations.,positive
+435,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+436,Incredible value for money! I have recommended this office chair to all my colleagues.,positive
+437,:) Do not waste your money on this wireless earbuds. Plenty of phenomenal alternatives available for cheaper. </p>,negative
+438,:( Arrived unreliable with missing parts. Return process was frustrating and slow. <p>,negative
+439,Very disappointed with this purchase. The smart thermostat feels subpar and battery life constantly fails.,negative
+440,Super clean interface and flawless performance. The sound quality makes daily workflow effortless.,positive
+441,Arrived unreliable with missing parts. Return process was frustrating and slow.,negative
+442,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+443,"Great mechanical keyboard for the price. Fast delivery, fantastic customer support, and very reliable.",positive
+444,"Average performance, decent for the price point but nothing special.",neutral
+445,<br /> Five stars! The office chair arrived earlier than promised and was packaged with great care.  :),positive
+446,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+447,Customer service was rude and refused to issue a refund for the defective external SSD.,negative
+448,Incredible value for money! I have recommended this noise-canceling headphones to all my colleagues.,positive
+449,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+450,Very disappointed with this purchase. The office chair feels flimsy and ergonomic design constantly fails.,negative
+451,A game-changer for my daily productivity. sound quality saves me hours every single week.,positive
+452,</b> Arrived subpar with missing parts. Return process was frustrating and slow. <p>,negative
+453,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+454,Do not waste your money on this power bank. Plenty of terrific alternatives available for cheaper.,negative
+455,Misleading product description! The gaming mouse lacks the advertised software ecosystem and battery drains fast.,negative
+456,<b> Misleading product description! The robot vacuum lacks the advertised charging speed and battery drains fast.  :(,negative
+457,:( Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+458,Customer service was rude and refused to issue a refund for the defective tablet.,negative
+459,"!! Flimsy materials, noisy operation, and the data transfer rate barely functions. Very unhappy.",negative
+460,Arrived subpar with missing parts. Return process was frustrating and slow. </b>,negative
+461,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+462,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+463,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+464,:( Brilliant design and wonderful execution. Everything works straight out of the box with zero fuss.  :(,positive
+465,Super clean interface and delightful performance. The battery life makes daily workflow effortless.,positive
+466,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+467,!! Do not waste your money on this gaming mouse. Plenty of durable alternatives available for cheaper.  :(,negative
+468,The connectivity is completely broken and lags terribly. Extremely frustrated with this item.,negative
+469,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+470,Customer service was rude and refused to issue a refund for the defective external SSD.,negative
+471,<br /><br /> Do not waste your money on this gaming mouse. Plenty of phenomenal alternatives available for cheaper. ...,negative
+472,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+473,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+474,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+475,"</p> Poor performance, terrible build quality, and zero customer support. Avoid at all costs! <b>",negative
+476,!! Customer service was rude and refused to issue a refund for the defective laptop.  :(,negative
+477,"Standard shipping and ordinary packaging. It works as described, no major complaints.",neutral
+478,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+479,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+480,"<br /><br /> Exceeded expectations in every regard. High quality materials, premium sound, and sleek finish. <br />",positive
+481,:) Absolutely love this external SSD. It has terrific build quality and setup process is seamless. </b>,positive
+482,!! Do not waste your money on this gaming mouse. Plenty of flawless alternatives available for cheaper. <p>,negative
+483,Best purchase I have made all year! Top-tier charging speed and the quality feels extremely durable.,positive
+484,"The build is solid, the connectivity is intuitive, and it looks beautiful on my desk.",positive
+485,Outstanding performance! data transfer rate is super fast and battery life lasts all day without issues.,positive
+486,... Five stars! The external SSD arrived earlier than promised and was packaged with great care. <b>,positive
+487,Do not waste your money on this smart thermostat. Plenty of wonderful alternatives available for cheaper.,negative
+488,"Exceeded expectations in every regard. High quality materials, exceptional sound, and sleek finish.",positive
+489,Five stars! The tablet arrived earlier than promised and was packaged with great care.,positive
+490,"Standard shipping and ordinary packaging. It works as described, no major complaints.",neutral
+491,Outstanding performance! ergonomic design is super fast and battery life lasts all day without issues.,positive
+492,Super clean interface and premium performance. The build craftsmanship makes daily workflow effortless.,positive
+493,Outstanding performance! connectivity is super fast and battery life lasts all day without issues.,positive
+494,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+495,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+496,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+497,Five stars! The smartwatch arrived earlier than promised and was packaged with great care.,positive
+498,Average quality bluetooth speaker. Meets minimum requirements but lacks advanced features.,neutral
+499,Misleading product description! The noise-canceling headphones lacks the advertised charging speed and battery drains fast.,negative
+500,"I was hesitant at first, but this smart thermostat turned out to be terrific. Highly recommend to everyone!",positive
+501,Misleading product description! The microphone lacks the advertised data transfer rate and battery drains fast.,negative
+502,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+503,<b> The smartwatch stopped charging after three days. Complete waste of hard-earned money. </b>,negative
+504,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+505,Do not waste your money on this fitness tracker. Plenty of superb alternatives available for cheaper.,negative
+506,... Overheating issues and constant software crashes. Definitely returning this tomorrow. <br />,negative
+507,Terrible mechanical keyboard! Stopped working after two days and customer support was completely useless.,negative
+508,<br /> The noise-canceling headphones stopped charging after three days. Complete waste of hard-earned money. <b>,negative
+509,The display brightness is completely broken and lags terribly. Extremely frustrated with this item.,negative
+510,"The build is solid, the connectivity is intuitive, and it looks beautiful on my desk.",positive
+511,"Standard shipping and ordinary packaging. It works as described, no major complaints.",neutral
+512,"Exceeded expectations in every regard. High quality materials, durable sound, and sleek finish.",positive
+513,The monitor is reliable! ergonomic design works wonderfully and exceeded all my expectations.,positive
+514,Do not waste your money on this fitness tracker. Plenty of exceptional alternatives available for cheaper.,negative
+515,!! Do not waste your money on this webcam. Plenty of premium alternatives available for cheaper.  :),negative
+516,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+517,... Misleading product description! The noise-canceling headphones lacks the advertised build craftsmanship and battery drains fast.  :),negative
+518,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+519,Customer service was rude and refused to issue a refund for the defective laptop.  :(,negative
+520,The smartwatch is durable! build craftsmanship works brilliantly and exceeded all my expectations.,positive
+521,Incredible value for money! I have recommended this smartwatch to all my colleagues.,positive
+522,<br /><br /> Misleading product description! The bluetooth speaker lacks the advertised software ecosystem and battery drains fast.  :),negative
+523,"I was hesitant at first, but this gaming mouse turned out to be superb. Highly recommend to everyone!",positive
+524,:( Outstanding performance! ergonomic design is super fast and battery life lasts all day without issues. </p>,positive
+525,"Great external SSD for the price. Fast delivery, exceptional customer support, and very reliable.",positive
+526,":( Flimsy materials, noisy operation, and the data transfer rate barely functions. Very unhappy. !!",negative
+527,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+528,Arrived defective with missing parts. Return process was frustrating and slow.,negative
+529,Absolutely love this noise-canceling headphones. It has brilliant build quality and connectivity is seamless.,positive
+530,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+531,The wireless earbuds stopped charging after three days. Complete waste of hard-earned money.,negative
+532,Brilliant design and superb execution. Everything works straight out of the box with zero fuss.,positive
+533,Arrived defective with missing parts. Return process was frustrating and slow.,negative
+534,A game-changer for my daily productivity. data transfer rate saves me hours every single week.,positive
+535,The bluetooth speaker is superb! connectivity works seamlessly and exceeded all my expectations.,positive
+536,Brilliant design and wonderful execution. Everything works straight out of the box with zero fuss.,positive
+537,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+538,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+539,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+540,Arrived subpar with missing parts. Return process was frustrating and slow.,negative
+541,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+542,Misleading product description! The bluetooth speaker lacks the advertised touchscreen response and battery drains fast.,negative
+543,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+544,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+545,Misleading product description! The gaming mouse lacks the advertised software ecosystem and battery drains fast.,negative
+546,"The build is solid, the ergonomic design is intuitive, and it looks beautiful on my desk.",positive
+547,<p> A game-changer for my daily productivity. data transfer rate saves me hours every single week. </p>,positive
+548,Absolutely love this office chair. It has reliable build quality and charging speed is seamless.,positive
+549,The charging speed is completely broken and lags terribly. Extremely frustrated with this item.,negative
+550,"Decent build, but the build craftsmanship could be improved. Fair for the discounted price.",neutral
+551,<p> Super clean interface and wonderful performance. The noise isolation makes daily workflow effortless.,positive
+552,Misleading product description! The wireless earbuds lacks the advertised ergonomic design and battery drains fast.,negative
+553,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+554,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+555,"The build is solid, the noise isolation is intuitive, and it looks beautiful on my desk.",positive
+556,"Flimsy materials, noisy operation, and the connectivity barely functions. Very unhappy.",negative
+557,"The build is solid, the connectivity is intuitive, and it looks beautiful on my desk.",positive
+558,Absolutely love this smartwatch. It has superb build quality and connectivity is seamless. </p>,positive
+559,"Great coffee maker for the price. Fast delivery, durable customer support, and very reliable.",positive
+560,Best purchase I have made all year! Top-tier connectivity and the quality feels extremely durable.,positive
+561,:( Customer service was rude and refused to issue a refund for the defective monitor.  :(,negative
+562,":) Flimsy materials, noisy operation, and the charging speed barely functions. Very unhappy.  :(",negative
+563,:) Very disappointed with this purchase. The office chair feels terrible and battery life constantly fails.  :),negative
+564,Misleading product description! The gaming mouse lacks the advertised noise isolation and battery drains fast.,negative
+565,"Absolutely love this! Easy to setup, robust, and works flawlessly.",positive
+566,Very disappointed with this purchase. The wireless earbuds feels terrible and ergonomic design constantly fails.,negative
+567,Best purchase I have made all year! Top-tier ergonomic design and the quality feels extremely durable.,positive
+568,"The build is solid, the display brightness is intuitive, and it looks beautiful on my desk.",positive
+569,</p> Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes. ...,positive
+570,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+571,<p> Cheap plastic construction and poor quality control. Broke during the very first week. <br /><br />,negative
+572,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+573,"The bluetooth speaker is okay for basic tasks. Nothing special, average performance.",neutral
+574,Absolutely love this microphone. It has exceptional build quality and sound quality is seamless.,positive
+575,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+576,"... Flimsy materials, noisy operation, and the build craftsmanship barely functions. Very unhappy. <b>",negative
+577,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+578,... Do not waste your money on this power bank. Plenty of exceptional alternatives available for cheaper. <b>,negative
+579,<b> A game-changer for my daily productivity. battery life saves me hours every single week.,positive
+580,<br /><br /> Terrible power bank! Stopped working after two days and customer support was completely useless. </b>,negative
+581,Very disappointed with this purchase. The mechanical keyboard feels cheap and battery life constantly fails.,negative
+582,Super clean interface and delightful performance. The software ecosystem makes daily workflow effortless.,positive
+583,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+584,Best purchase I have made all year! Top-tier software ecosystem and the quality feels extremely durable.,positive
+585,</b> Terrible office chair! Stopped working after two days and customer support was completely useless. ...,negative
+586,Super clean interface and phenomenal performance. The build craftsmanship makes daily workflow effortless.,positive
+587,Average quality monitor. Meets minimum requirements but lacks advanced features.,neutral
+588,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+589,:( Very disappointed with this purchase. The bluetooth speaker feels awful and noise isolation constantly fails. <br /><br />,negative
+590,The microphone stopped charging after three days. Complete waste of hard-earned money.,negative
+591,"The build is solid, the noise isolation is intuitive, and it looks beautiful on my desk.",positive
+592,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+593,<br /><br /> Subpar quality that does not justify the high price tag. Very dissatisfied. <br /><br />,negative
+594,:( Misleading product description! The laptop lacks the advertised charging speed and battery drains fast.,negative
+595,<b> Subpar quality that does not justify the high price tag. Very dissatisfied. <b>,negative
+596,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+597,Outstanding performance! charging speed is super fast and battery life lasts all day without issues.,positive
+598,"The build is solid, the sound quality is intuitive, and it looks beautiful on my desk.",positive
+599,</b> Do not waste your money on this fitness tracker. Plenty of reliable alternatives available for cheaper. </b>,negative
+600,The bluetooth speaker stopped charging after three days. Complete waste of hard-earned money.,negative
+601,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+602,Very disappointed with this purchase. The wireless earbuds feels horrible and software ecosystem constantly fails.,negative
+603,Terrible laptop! Stopped working after ten days and customer support was completely useless.,negative
+604,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+605,Super clean interface and reliable performance. The setup process makes daily workflow effortless.,positive
+606,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+607,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+608,... A game-changer for my daily productivity. noise isolation saves me hours every single week. <br /><br />,positive
+609,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+610,Super clean interface and fantastic performance. The display brightness makes daily workflow effortless.,positive
+611,Brilliant design and terrific execution. Everything works straight out of the box with zero fuss.,positive
+612,Five stars! The external SSD arrived earlier than promised and was packaged with great care.,positive
+613,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+614,Terrible microphone! Stopped working after one week and customer support was completely useless.,negative
+615,"Received as expected. It does the job adequately, neither impressive nor terrible.",neutral
+616,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+617,Very disappointed with this purchase. The microphone feels terrible and noise isolation constantly fails.,negative
+618,... Five stars! The gaming mouse arrived earlier than promised and was packaged with great care. </p>,positive
+619,<br /> Super clean interface and phenomenal performance. The connectivity makes daily workflow effortless. !!,positive
+620,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+621,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+622,<br /><br /> Overheating issues and constant software crashes. Definitely returning this tomorrow.  :(,negative
+623,Do not waste your money on this robot vacuum. Plenty of impressive alternatives available for cheaper.,negative
+624,Terrible gaming mouse! Stopped working after two weeks and customer support was completely useless.,negative
+625,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+626,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+627,Five stars! The fitness tracker arrived earlier than promised and was packaged with great care.,positive
+628,The smart thermostat is brilliant! display brightness works seamlessly and exceeded all my expectations.,positive
+629,Arrived frustrating with missing parts. Return process was frustrating and slow.,negative
+630,Misleading product description! The laptop lacks the advertised connectivity and battery drains fast.,negative
+631,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+632,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+633,"The build is solid, the display brightness is intuitive, and it looks beautiful on my desk.",positive
+634,Best purchase I have made all year! Top-tier setup process and the quality feels extremely durable.,positive
+635,":) Great noise-canceling headphones for the price. Fast delivery, superb customer support, and very reliable. <br /><br />",positive
+636,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+637,"</b> The build is solid, the data transfer rate is intuitive, and it looks beautiful on my desk. !!",positive
+638,Outstanding performance! setup process is super fast and battery life lasts all day without issues.,positive
+639,Five stars! The robot vacuum arrived earlier than promised and was packaged with great care.,positive
+640,Incredible value for money! I have recommended this external SSD to all my colleagues.,positive
+641,A game-changer for my daily productivity. software ecosystem saves me hours every single week.,positive
+642,Customer service was rude and refused to issue a refund for the defective smart thermostat.,negative
+643,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+644,Absolutely love this power bank. It has delightful build quality and noise isolation is seamless.,positive
+645,"Great smart thermostat for the price. Fast delivery, premium customer support, and very reliable.",positive
+646,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+647,Arrived flimsy with missing parts. Return process was frustrating and slow.,negative
+648,"The smart thermostat is okay for basic tasks. Nothing special, average performance.",neutral
+649,Very disappointed with this purchase. The noise-canceling headphones feels dreadful and software ecosystem constantly fails.,negative
+650,:) Overheating issues and constant software crashes. Definitely returning this tomorrow.  :(,negative
+651,<br /><br /> Arrived subpar with missing parts. Return process was frustrating and slow. !!,negative
+652,Very disappointed with this purchase. The webcam feels broken and noise isolation constantly fails.,negative
+653,"Decent build, but the sound quality could be improved. Fair for the discounted price.",neutral
+654,"<b> The build is solid, the setup process is intuitive, and it looks beautiful on my desk. <br /><br />",positive
+655,The wireless earbuds stopped charging after three days. Complete waste of hard-earned money.,negative
+656,"I was hesitant at first, but this power bank turned out to be flawless. Highly recommend to everyone!",positive
+657,"I was hesitant at first, but this smart thermostat turned out to be superb. Highly recommend to everyone!",positive
+658,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+659,Outstanding performance! battery life is super fast and battery life lasts all day without issues.,positive
+660,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+661,Absolutely love this noise-canceling headphones. It has durable build quality and build craftsmanship is seamless.,positive
+662,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+663,"I was hesitant at first, but this tablet turned out to be phenomenal. Highly recommend to everyone!",positive
+664,Do not waste your money on this smartphone. Plenty of flawless alternatives available for cheaper.,negative
+665,<br /> Outstanding performance! charging speed is super fast and battery life lasts all day without issues. <p>,positive
+666,The ergonomic design is completely broken and lags terribly. Extremely frustrated with this item.,negative
+667,:) Delivered promptly and functioned flawlessly from day one. Truly a fantastic product! <br /><br />,positive
+668,</p> Cheap plastic construction and poor quality control. Broke during the very first week. <b>,negative
+669,Super clean interface and brilliant performance. The battery life makes daily workflow effortless.,positive
+670,Five stars! The bluetooth speaker arrived earlier than promised and was packaged with great care.,positive
+671,</b> Incredible value for money! I have recommended this robot vacuum to all my colleagues. <b>,positive
+672,":( Flimsy materials, noisy operation, and the charging speed barely functions. Very unhappy. <br />",negative
+673,"Flimsy materials, noisy operation, and the setup process barely functions. Very unhappy.",negative
+674,Best purchase I have made all year! Top-tier noise isolation and the quality feels extremely durable.,positive
+675,Do not waste your money on this tablet. Plenty of reliable alternatives available for cheaper. <b>,negative
+676,":( Great gaming mouse for the price. Fast delivery, terrific customer support, and very reliable.  :)",positive
+677,Brilliant design and premium execution. Everything works straight out of the box with zero fuss.,positive
+678,Very disappointed with this purchase. The tablet feels broken and charging speed constantly fails.,negative
+679,"Received as expected. It does the job adequately, neither impressive nor terrible.",neutral
+680,:) A game-changer for my daily productivity. noise isolation saves me hours every single week.,positive
+681,"<br /> Great fitness tracker for the price. Fast delivery, phenomenal customer support, and very reliable. <br /><br />",positive
+682,:) Do not waste your money on this wireless earbuds. Plenty of terrific alternatives available for cheaper. ...,negative
+683,:( Customer service was rude and refused to issue a refund for the defective coffee maker.  :(,negative
+684,Super clean interface and wonderful performance. The sound quality makes daily workflow effortless.,positive
+685,Do not waste your money on this microphone. Plenty of top-notch alternatives available for cheaper.,negative
+686,The mechanical keyboard is reliable! touchscreen response works seamlessly and exceeded all my expectations.,positive
+687,The touchscreen response is completely broken and lags terribly. Extremely frustrated with this item.,negative
+688,Misleading product description! The smartwatch lacks the advertised battery life and battery drains fast.,negative
+689,Do not waste your money on this microphone. Plenty of exceptional alternatives available for cheaper.,negative
+690,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+691,Five stars! The smartwatch arrived earlier than promised and was packaged with great care.,positive
+692,The laptop is superb! ergonomic design works seamlessly and exceeded all my expectations.,positive
+693,Best purchase I have made all year! Top-tier display brightness and the quality feels extremely durable.,positive
+694,<p> Absolutely love this wireless earbuds. It has phenomenal build quality and sound quality is seamless. <br /><br />,positive
+695,</p> The robot vacuum stopped charging after three days. Complete waste of hard-earned money.  :(,negative
+696,The power bank stopped charging after three days. Complete waste of hard-earned money.,negative
+697,"Great smart thermostat for the price. Fast delivery, reliable customer support, and very reliable.",positive
+698,"The build is solid, the software ecosystem is intuitive, and it looks beautiful on my desk.",positive
+699,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+700,Absolutely love this bluetooth speaker. It has premium build quality and setup process is seamless.,positive
+701,"The build is solid, the software ecosystem is intuitive, and it looks beautiful on my desk.",positive
+702,<p> The noise-canceling headphones stopped charging after three days. Complete waste of hard-earned money.  :(,negative
+703,The wireless earbuds is top-notch! build craftsmanship works smoothly and exceeded all my expectations.,positive
+704,A game-changer for my daily productivity. data transfer rate saves me hours every single week.,positive
+705,<br /> Very disappointed with this purchase. The smart thermostat feels subpar and noise isolation constantly fails.,negative
+706,:) Do not waste your money on this office chair. Plenty of flawless alternatives available for cheaper. <b>,negative
+707,The connectivity is completely broken and lags terribly. Extremely frustrated with this item.,negative
+708,:( Best purchase I have made all year! Top-tier noise isolation and the quality feels extremely durable. <p>,positive
+709,"The build is solid, the data transfer rate is intuitive, and it looks beautiful on my desk.",positive
+710,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+711,"The build is solid, the sound quality is intuitive, and it looks beautiful on my desk.",positive
+712,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+713,Do not waste your money on this wireless earbuds. Plenty of wonderful alternatives available for cheaper.,negative
+714,"The build is solid, the connectivity is intuitive, and it looks beautiful on my desk. ...",positive
+715,<br /><br /> Cheap plastic construction and poor quality control. Broke during the very first week. !!,negative
+716,!! Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+717,Outstanding performance! software ecosystem is super fast and battery life lasts all day without issues.,positive
+718,"The build is solid, the setup process is intuitive, and it looks beautiful on my desk.",positive
+719,"Exceeded expectations in every regard. High quality materials, brilliant sound, and sleek finish. !!",positive
+720,"Great tablet for the price. Fast delivery, superb customer support, and very reliable.",positive
+721,<b> Five stars! The monitor arrived earlier than promised and was packaged with great care. ...,positive
+722,The smartphone stopped charging after three days. Complete waste of hard-earned money.,negative
+723,Five stars! The laptop arrived earlier than promised and was packaged with great care.,positive
+724,<br /> Delivered promptly and functioned flawlessly from day one. Truly a fantastic product! </p>,positive
+725,Arrived awful with missing parts. Return process was frustrating and slow.,negative
+726,Incredible value for money! I have recommended this mechanical keyboard to all my colleagues.,positive
+727,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+728,!! The bluetooth speaker stopped charging after three days. Complete waste of hard-earned money. <br /><br />,negative
+729,"Great bluetooth speaker for the price. Fast delivery, delightful customer support, and very reliable.",positive
+730,The tablet stopped charging after three days. Complete waste of hard-earned money.,negative
+731,Five stars! The microphone arrived earlier than promised and was packaged with great care.,positive
+732,The laptop is terrific! charging speed works brilliantly and exceeded all my expectations.,positive
+733,The smartphone stopped charging after three days. Complete waste of hard-earned money.,negative
+734,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+735,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+736,Terrible mechanical keyboard! Stopped working after three days and customer support was completely useless.,negative
+737,"Exceeded expectations in every regard. High quality materials, flawless sound, and sleek finish.",positive
+738,The setup process is completely broken and lags terribly. Extremely frustrated with this item.,negative
+739,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+740,!! Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+741,Absolutely love this noise-canceling headphones. It has durable build quality and sound quality is seamless.,positive
+742,Incredible value for money! I have recommended this gaming mouse to all my colleagues.,positive
+743,"</p> The build is solid, the charging speed is intuitive, and it looks beautiful on my desk.",positive
+744,"... Poor performance, terrible build quality, and zero customer support. Avoid at all costs! </b>",negative
+745,:( Overheating issues and constant software crashes. Definitely returning this tomorrow.  :),negative
+746,Very disappointed with this purchase. The coffee maker feels awful and touchscreen response constantly fails.,negative
+747,Arrived flimsy with missing parts. Return process was frustrating and slow.,negative
+748,A game-changer for my daily productivity. noise isolation saves me hours every single week.,positive
+749,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+750,"Great office chair for the price. Fast delivery, top-notch customer support, and very reliable.",positive
+751,Brilliant design and superb execution. Everything works straight out of the box with zero fuss.,positive
+752,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+753,<br /> Arrived broken with missing parts. Return process was frustrating and slow. <br />,negative
+754,:( Do not waste your money on this coffee maker. Plenty of superb alternatives available for cheaper. </p>,negative
+755,... Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes. <p>,positive
+756,"I was hesitant at first, but this power bank turned out to be fantastic. Highly recommend to everyone!",positive
+757,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+758,A game-changer for my daily productivity. connectivity saves me hours every single week.,positive
+759,The sound quality is completely broken and lags terribly. Extremely frustrated with this item.,negative
+760,"Flimsy materials, noisy operation, and the sound quality barely functions. Very unhappy.",negative
+761,<b> Brilliant design and top-notch execution. Everything works straight out of the box with zero fuss. <br /><br />,positive
+762,Brilliant design and fantastic execution. Everything works straight out of the box with zero fuss.,positive
+763,<br /><br /> Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!  :(,positive
+764,Five stars! The bluetooth speaker arrived earlier than promised and was packaged with great care.,positive
+765,Five stars! The smartwatch arrived earlier than promised and was packaged with great care.,positive
+766,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+767,A game-changer for my daily productivity. battery life saves me hours every single week.,positive
+768,Arrived flimsy with missing parts. Return process was frustrating and slow.,negative
+769,Arrived damaged with missing parts. Return process was frustrating and slow.,negative
+770,"Flimsy materials, noisy operation, and the build craftsmanship barely functions. Very unhappy.",negative
+771,"Exceeded expectations in every regard. High quality materials, fantastic sound, and sleek finish.",positive
+772,"Received as expected. It does the job adequately, neither impressive nor terrible.",neutral
+773,Arrived subpar with missing parts. Return process was frustrating and slow.,negative
+774,Super clean interface and wonderful performance. The setup process makes daily workflow effortless.,positive
+775,"Flimsy materials, noisy operation, and the noise isolation barely functions. Very unhappy.",negative
+776,The tablet stopped charging after three days. Complete waste of hard-earned money.,negative
+777,Customer service was rude and refused to issue a refund for the defective gaming mouse. <b>,negative
+778,"The build is solid, the charging speed is intuitive, and it looks beautiful on my desk.",positive
+779,Incredible value for money! I have recommended this office chair to all my colleagues.,positive
+780,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+781,:( Five stars! The webcam arrived earlier than promised and was packaged with great care.  :(,positive
+782,"Great office chair for the price. Fast delivery, terrific customer support, and very reliable.",positive
+783,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+784,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+785,Five stars! The power bank arrived earlier than promised and was packaged with great care.,positive
+786,Super clean interface and flawless performance. The battery life makes daily workflow effortless.,positive
+787,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+788,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+789,Very disappointed with this purchase. The smart thermostat feels broken and build craftsmanship constantly fails.,negative
+790,<b> Very disappointed with this purchase. The mechanical keyboard feels broken and sound quality constantly fails. </p>,negative
+791,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+792,Incredible value for money! I have recommended this power bank to all my colleagues.,positive
+793,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+794,The wireless earbuds is wonderful! connectivity works seamlessly and exceeded all my expectations.,positive
+795,Best purchase I have made all year! Top-tier sound quality and the quality feels extremely durable.,positive
+796,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+797,... Misleading product description! The tablet lacks the advertised battery life and battery drains fast. </p>,negative
+798,!! Super clean interface and phenomenal performance. The touchscreen response makes daily workflow effortless. <br /><br />,positive
+799,Incredible value for money! I have recommended this smart thermostat to all my colleagues.,positive
+800,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+801,"I was hesitant at first, but this office chair turned out to be flawless. Highly recommend to everyone!",positive
+802,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+803,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+804,"Exceeded expectations in every regard. High quality materials, durable sound, and sleek finish.",positive
+805,Absolutely love this laptop. It has premium build quality and setup process is seamless.,positive
+806,</b> Brilliant design and reliable execution. Everything works straight out of the box with zero fuss. <b>,positive
+807,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+808,The tablet is flawless! charging speed works seamlessly and exceeded all my expectations.,positive
+809,Best purchase I have made all year! Top-tier noise isolation and the quality feels extremely durable.,positive
+810,"I was hesitant at first, but this external SSD turned out to be phenomenal. Highly recommend to everyone!",positive
+811,Misleading product description! The microphone lacks the advertised connectivity and battery drains fast.,negative
+812,Incredible value for money! I have recommended this monitor to all my colleagues.,positive
+813,"I was hesitant at first, but this smartwatch turned out to be durable. Highly recommend to everyone!",positive
+814,Super clean interface and flawless performance. The battery life makes daily workflow effortless.,positive
+815,<b> A game-changer for my daily productivity. sound quality saves me hours every single week.  :),positive
+816,The data transfer rate is completely broken and lags terribly. Extremely frustrated with this item.,negative
+817,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+818,Five stars! The laptop arrived earlier than promised and was packaged with great care.,positive
+819,!! Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes. ...,positive
+820,The smart thermostat is fantastic! sound quality works reliably and exceeded all my expectations.,positive
+821,<br /><br /> The smartwatch is flawless! software ecosystem works wonderfully and exceeded all my expectations. </p>,positive
+822,!! Absolutely love this coffee maker. It has delightful build quality and build craftsmanship is seamless. ...,positive
+823,"Flimsy materials, noisy operation, and the noise isolation barely functions. Very unhappy.",negative
+824,Outstanding performance! data transfer rate is super fast and battery life lasts all day without issues.,positive
+825,Very disappointed with this purchase. The monitor feels cheap and noise isolation constantly fails.,negative
+826,</b> Cheap plastic construction and poor quality control. Broke during the very first week. <br /><br />,negative
+827,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+828,"</b> Exceeded expectations in every regard. High quality materials, flawless sound, and sleek finish.  :(",positive
+829,Super clean interface and durable performance. The noise isolation makes daily workflow effortless.,positive
+830,:( A game-changer for my daily productivity. battery life saves me hours every single week. <p>,positive
+831,Five stars! The webcam arrived earlier than promised and was packaged with great care.,positive
+832,Brilliant design and top-notch execution. Everything works straight out of the box with zero fuss.,positive
+833,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+834,Customer service was rude and refused to issue a refund for the defective gaming mouse.,negative
+835,"Received as expected. It does the job adequately, neither impressive nor terrible.",neutral
+836,!! Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+837,Misleading product description! The coffee maker lacks the advertised display brightness and battery drains fast.,negative
+838,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+839,Absolutely love this wireless earbuds. It has premium build quality and software ecosystem is seamless.,positive
+840,<br /> Misleading product description! The robot vacuum lacks the advertised display brightness and battery drains fast. </b>,negative
+841,Brilliant design and superb execution. Everything works straight out of the box with zero fuss.,positive
+842,The battery life is completely broken and lags terribly. Extremely frustrated with this item.,negative
+843,Very disappointed with this purchase. The smartphone feels cheap and sound quality constantly fails.,negative
+844,Absolutely love this power bank. It has wonderful build quality and software ecosystem is seamless.,positive
+845,The external SSD is brilliant! ergonomic design works reliably and exceeded all my expectations.,positive
+846,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+847,"!! Exceeded expectations in every regard. High quality materials, flawless sound, and sleek finish. </b>",positive
+848,</b> Arrived dreadful with missing parts. Return process was frustrating and slow.,negative
+849,:( Do not waste your money on this tablet. Plenty of brilliant alternatives available for cheaper. </b>,negative
+850,"The build is solid, the charging speed is intuitive, and it looks beautiful on my desk.",positive
+851,The smartwatch is top-notch! software ecosystem works reliably and exceeded all my expectations.,positive
+852,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+853,Misleading product description! The fitness tracker lacks the advertised build craftsmanship and battery drains fast.,negative
+854,Very disappointed with this purchase. The laptop feels awful and connectivity constantly fails.,negative
+855,Misleading product description! The smart thermostat lacks the advertised build craftsmanship and battery drains fast.,negative
+856,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+857,... Misleading product description! The coffee maker lacks the advertised sound quality and battery drains fast.  :),negative
+858,</p> Outstanding performance! display brightness is super fast and battery life lasts all day without issues. ...,positive
+859,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+860,Misleading product description! The tablet lacks the advertised sound quality and battery drains fast.,negative
+861,Incredible value for money! I have recommended this coffee maker to all my colleagues.,positive
+862,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+863,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+864,:) Worst experience ever. Delivery was delayed by two weeks and package arrived crushed. </p>,negative
+865,Brilliant design and top-notch execution. Everything works straight out of the box with zero fuss.,positive
+866,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+867,The coffee maker stopped charging after three days. Complete waste of hard-earned money.,negative
+868,<br /> Do not waste your money on this laptop. Plenty of phenomenal alternatives available for cheaper.  :(,negative
+869,"Great webcam for the price. Fast delivery, reliable customer support, and very reliable.",positive
+870,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+871,:) Arrived subpar with missing parts. Return process was frustrating and slow. </b>,negative
+872,Do not waste your money on this smartphone. Plenty of delightful alternatives available for cheaper.,negative
+873,"The build is solid, the touchscreen response is intuitive, and it looks beautiful on my desk.",positive
+874,Outstanding performance! sound quality is super fast and battery life lasts all day without issues.,positive
+875,The laptop is fantastic! connectivity works smoothly and exceeded all my expectations.,positive
+876,Super clean interface and brilliant performance. The setup process makes daily workflow effortless.,positive
+877,The microphone is top-notch! build craftsmanship works flawlessly and exceeded all my expectations.,positive
+878,The external SSD stopped charging after three days. Complete waste of hard-earned money.,negative
+879,Customer service was rude and refused to issue a refund for the defective robot vacuum.,negative
+880,Misleading product description! The microphone lacks the advertised battery life and battery drains fast.,negative
+881,Incredible value for money! I have recommended this noise-canceling headphones to all my colleagues.,positive
+882,"Decent build, but the software ecosystem could be improved. Fair for the discounted price.",neutral
+883,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+884,"The build is solid, the build craftsmanship is intuitive, and it looks beautiful on my desk.",positive
+885,... Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes. !!,positive
+886,Terrible laptop! Stopped working after one week and customer support was completely useless.,negative
+887,"Decent build, but the software ecosystem could be improved. Fair for the discounted price.",neutral
+888,<br /> Misleading product description! The office chair lacks the advertised touchscreen response and battery drains fast. ...,negative
+889,The smartphone stopped charging after three days. Complete waste of hard-earned money.,negative
+890,Arrived terrible with missing parts. Return process was frustrating and slow.,negative
+891,"<br /> The build is solid, the connectivity is intuitive, and it looks beautiful on my desk.  :)",positive
+892,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+893,Customer service was rude and refused to issue a refund for the defective gaming mouse.,negative
+894,Incredible value for money! I have recommended this monitor to all my colleagues.,positive
+895,Five stars! The bluetooth speaker arrived earlier than promised and was packaged with great care.,positive
+896,<br /> Overheating issues and constant software crashes. Definitely returning this tomorrow. </p>,negative
+897,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+898,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+899,"Great robot vacuum for the price. Fast delivery, top-notch customer support, and very reliable.",positive
+900,"The build is solid, the ergonomic design is intuitive, and it looks beautiful on my desk.",positive
+901,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+902,<p> Misleading product description! The smart thermostat lacks the advertised ergonomic design and battery drains fast.,negative
+903,:( Customer service was rude and refused to issue a refund for the defective gaming mouse. !!,negative
+904,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+905,"Flimsy materials, noisy operation, and the sound quality barely functions. Very unhappy.",negative
+906,"Flimsy materials, noisy operation, and the charging speed barely functions. Very unhappy.",negative
+907,:( A game-changer for my daily productivity. data transfer rate saves me hours every single week. ...,positive
+908,A game-changer for my daily productivity. build craftsmanship saves me hours every single week.,positive
+909,Brilliant design and fantastic execution. Everything works straight out of the box with zero fuss. </b>,positive
+910,"Great robot vacuum for the price. Fast delivery, exceptional customer support, and very reliable.",positive
+911,"I was hesitant at first, but this bluetooth speaker turned out to be durable. Highly recommend to everyone!",positive
+912,The tablet is wonderful! data transfer rate works reliably and exceeded all my expectations.,positive
+913,"Flimsy materials, noisy operation, and the display brightness barely functions. Very unhappy.",negative
+914,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+915,"The build is solid, the sound quality is intuitive, and it looks beautiful on my desk.",positive
+916,The wireless earbuds is impressive! connectivity works seamlessly and exceeded all my expectations.,positive
+917,The mechanical keyboard stopped charging after three days. Complete waste of hard-earned money.,negative
+918,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+919,:( Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.  :),negative
+920,"Exceeded expectations in every regard. High quality materials, wonderful sound, and sleek finish.",positive
+921,Brilliant design and top-notch execution. Everything works straight out of the box with zero fuss.,positive
+922,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+923,"I was hesitant at first, but this wireless earbuds turned out to be wonderful. Highly recommend to everyone!",positive
+924,"The webcam is okay for basic tasks. Nothing special, average performance.",neutral
+925,"I was hesitant at first, but this webcam turned out to be terrific. Highly recommend to everyone!",positive
+926,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+927,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+928,Customer service was rude and refused to issue a refund for the defective robot vacuum. </p>,negative
+929,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+930,Absolutely love this tablet. It has phenomenal build quality and ergonomic design is seamless.,positive
+931,"</p> I was hesitant at first, but this power bank turned out to be reliable. Highly recommend to everyone!  :(",positive
+932,!! Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes. <br />,positive
+933,Average quality bluetooth speaker. Meets minimum requirements but lacks advanced features.,neutral
+934,"Flimsy materials, noisy operation, and the charging speed barely functions. Very unhappy.",negative
+935,Best purchase I have made all year! Top-tier data transfer rate and the quality feels extremely durable.,positive
+936,Outstanding performance! data transfer rate is super fast and battery life lasts all day without issues.,positive
+937,!! The smart thermostat is premium! data transfer rate works flawlessly and exceeded all my expectations. </p>,positive
+938,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+939,A game-changer for my daily productivity. build craftsmanship saves me hours every single week.,positive
+940,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+941,!! Delivered promptly and functioned flawlessly from day one. Truly a fantastic product! </p>,positive
+942,Do not waste your money on this smart thermostat. Plenty of top-notch alternatives available for cheaper.,negative
+943,Customer service was rude and refused to issue a refund for the defective microphone.,negative
+944,Brilliant design and impressive execution. Everything works straight out of the box with zero fuss.,positive
+945,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+946,"The build is solid, the software ecosystem is intuitive, and it looks beautiful on my desk.",positive
+947,:( Worst experience ever. Delivery was delayed by two weeks and package arrived crushed. !!,negative
+948,Terrible noise-canceling headphones! Stopped working after three days and customer support was completely useless.,negative
+949,Outstanding performance! setup process is super fast and battery life lasts all day without issues.,positive
+950,The battery life is completely broken and lags terribly. Extremely frustrated with this item.,negative
+951,"Standard shipping and ordinary packaging. It works as described, no major complaints.",neutral
+952,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+953,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+954,Absolutely love this webcam. It has fantastic build quality and noise isolation is seamless.,positive
+955,Outstanding performance! data transfer rate is super fast and battery life lasts all day without issues.,positive
+956,!! Brilliant design and fantastic execution. Everything works straight out of the box with zero fuss. !!,positive
+957,"Flimsy materials, noisy operation, and the connectivity barely functions. Very unhappy.",negative
+958,Five stars! The bluetooth speaker arrived earlier than promised and was packaged with great care.,positive
+959,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+960,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+961,"Received as expected. It does the job adequately, neither impressive nor terrible.",neutral
+962,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+963,... A game-changer for my daily productivity. display brightness saves me hours every single week.  :),positive
+964,</p> Brilliant design and durable execution. Everything works straight out of the box with zero fuss.  :),positive
+965,Super clean interface and premium performance. The software ecosystem makes daily workflow effortless.,positive
+966,"<b> Poor performance, terrible build quality, and zero customer support. Avoid at all costs! <p>",negative
+967,The smartwatch stopped charging after three days. Complete waste of hard-earned money.,negative
+968,"Great gaming mouse for the price. Fast delivery, durable customer support, and very reliable.",positive
+969,Average quality smart thermostat. Meets minimum requirements but lacks advanced features.,neutral
+970,Terrible mechanical keyboard! Stopped working after three days and customer support was completely useless.,negative
+971,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+972,Super clean interface and wonderful performance. The software ecosystem makes daily workflow effortless.,positive
+973,Outstanding performance! data transfer rate is super fast and battery life lasts all day without issues.,positive
+974,The microphone stopped charging after three days. Complete waste of hard-earned money.,negative
+975,Incredible value for money! I have recommended this microphone to all my colleagues.,positive
+976,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+977,<br /> Brilliant design and impressive execution. Everything works straight out of the box with zero fuss. </b>,positive
+978,Outstanding performance! connectivity is super fast and battery life lasts all day without issues.,positive
+979,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+980,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+981,The charging speed is completely broken and lags terribly. Extremely frustrated with this item.,negative
+982,The software ecosystem is completely broken and lags terribly. Extremely frustrated with this item.,negative
+983,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+984,</b> Super clean interface and top-notch performance. The data transfer rate makes daily workflow effortless.  :),positive
+985,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+986,Arrived flimsy with missing parts. Return process was frustrating and slow.,negative
+987,The build craftsmanship is completely broken and lags terribly. Extremely frustrated with this item.,negative
+988,The display brightness is completely broken and lags terribly. Extremely frustrated with this item.,negative
+989,Very disappointed with this purchase. The gaming mouse feels broken and data transfer rate constantly fails.,negative
+990,The touchscreen response is completely broken and lags terribly. Extremely frustrated with this item.,negative
+991,"Great wireless earbuds for the price. Fast delivery, wonderful customer support, and very reliable.",positive
+992,The laptop is exceptional! connectivity works reliably and exceeded all my expectations.,positive
+993,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+994,The bluetooth speaker stopped charging after three days. Complete waste of hard-earned money.,negative
+995,Arrived cheap with missing parts. Return process was frustrating and slow.,negative
+996,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+997,Outstanding performance! data transfer rate is super fast and battery life lasts all day without issues.,positive
+998,"Exceeded expectations in every regard. High quality materials, flawless sound, and sleek finish.",positive
+999,... Do not waste your money on this robot vacuum. Plenty of brilliant alternatives available for cheaper. </b>,negative
+1000,"The build is solid, the charging speed is intuitive, and it looks beautiful on my desk.",positive
+1001,The ergonomic design is completely broken and lags terribly. Extremely frustrated with this item.,negative
+1002,"Flimsy materials, noisy operation, and the sound quality barely functions. Very unhappy.",negative
+1003,Incredible value for money! I have recommended this robot vacuum to all my colleagues.,positive
+1004,The office chair is superb! software ecosystem works wonderfully and exceeded all my expectations.,positive
+1005,</b> Terrible wireless earbuds! Stopped working after three days and customer support was completely useless. <b>,negative
+1006,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+1007,:( Five stars! The noise-canceling headphones arrived earlier than promised and was packaged with great care. </b>,positive
+1008,... Best purchase I have made all year! Top-tier noise isolation and the quality feels extremely durable. <p>,positive
+1009,Best purchase I have made all year! Top-tier display brightness and the quality feels extremely durable.,positive
+1010,Misleading product description! The smartwatch lacks the advertised battery life and battery drains fast.,negative
+1011,<p> Outstanding performance! connectivity is super fast and battery life lasts all day without issues. <p>,positive
+1012,"Great tablet for the price. Fast delivery, brilliant customer support, and very reliable.",positive
+1013,A game-changer for my daily productivity. software ecosystem saves me hours every single week.,positive
+1014,Customer service was rude and refused to issue a refund for the defective power bank.,negative
+1015,!! Arrived awful with missing parts. Return process was frustrating and slow. <br /><br />,negative
+1016,"!! Poor performance, terrible build quality, and zero customer support. Avoid at all costs! <br /><br />",negative
+1017,Terrible mechanical keyboard! Stopped working after ten days and customer support was completely useless.,negative
+1018,A game-changer for my daily productivity. connectivity saves me hours every single week.,positive
+1019,Misleading product description! The monitor lacks the advertised sound quality and battery drains fast.,negative
+1020,Outstanding performance! charging speed is super fast and battery life lasts all day without issues.,positive
+1021,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+1022,"<br /> I was hesitant at first, but this gaming mouse turned out to be fantastic. Highly recommend to everyone!  :(",positive
+1023,Incredible value for money! I have recommended this wireless earbuds to all my colleagues.,positive
+1024,"The build is solid, the touchscreen response is intuitive, and it looks beautiful on my desk.",positive
+1025,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+1026,Absolutely love this smart thermostat. It has durable build quality and touchscreen response is seamless.,positive
+1027,Terrible smartwatch! Stopped working after two weeks and customer support was completely useless.,negative
+1028,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+1029,A game-changer for my daily productivity. data transfer rate saves me hours every single week.,positive
+1030,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+1031,Very disappointed with this purchase. The tablet feels defective and charging speed constantly fails.,negative
+1032,"The robot vacuum is okay for basic tasks. Nothing special, average performance.",neutral
+1033,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+1034,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+1035,Super clean interface and exceptional performance. The charging speed makes daily workflow effortless.,positive
+1036,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+1037,The noise isolation is completely broken and lags terribly. Extremely frustrated with this item.,negative
+1038,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+1039,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+1040,Best purchase I have made all year! Top-tier battery life and the quality feels extremely durable.,positive
+1041,Misleading product description! The smartwatch lacks the advertised display brightness and battery drains fast.,negative
+1042,Very disappointed with this purchase. The smartphone feels broken and sound quality constantly fails.,negative
+1043,Very disappointed with this purchase. The fitness tracker feels awful and data transfer rate constantly fails.,negative
+1044,"!! Great office chair for the price. Fast delivery, wonderful customer support, and very reliable.  :)",positive
+1045,Very disappointed with this purchase. The office chair feels flimsy and battery life constantly fails.,negative
+1046,"<br /><br /> I was hesitant at first, but this bluetooth speaker turned out to be impressive. Highly recommend to everyone! <br /><br />",positive
+1047,"Standard shipping and ordinary packaging. It works as described, no major complaints.",neutral
+1048,</p> Unusable software and complicated setup instructions. Totally regret buying this. <p>,negative
+1049,Super clean interface and top-notch performance. The setup process makes daily workflow effortless.,positive
+1050,"Exceeded expectations in every regard. High quality materials, brilliant sound, and sleek finish.",positive
+1051,Best purchase I have made all year! Top-tier data transfer rate and the quality feels extremely durable.,positive
+1052,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+1053,Customer service was rude and refused to issue a refund for the defective bluetooth speaker.,negative
+1054,Five stars! The gaming mouse arrived earlier than promised and was packaged with great care.,positive
+1055,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+1056,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+1057,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+1058,The noise-canceling headphones stopped charging after three days. Complete waste of hard-earned money.,negative
+1059,"Exceeded expectations in every regard. High quality materials, wonderful sound, and sleek finish.",positive
+1060,!! Customer service was rude and refused to issue a refund for the defective power bank.  :(,negative
+1061,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+1062,!! Subpar quality that does not justify the high price tag. Very dissatisfied. </b>,negative
+1063,Customer service was rude and refused to issue a refund for the defective gaming mouse.,negative
+1064,The battery life is completely broken and lags terribly. Extremely frustrated with this item.,negative
+1065,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+1066,The sound quality is completely broken and lags terribly. Extremely frustrated with this item.,negative
+1067,Super clean interface and brilliant performance. The software ecosystem makes daily workflow effortless.,positive
+1068,Super clean interface and terrific performance. The setup process makes daily workflow effortless.,positive
+1069,"Flimsy materials, noisy operation, and the software ecosystem barely functions. Very unhappy.",negative
+1070,The gaming mouse is delightful! software ecosystem works seamlessly and exceeded all my expectations.,positive
+1071,Very disappointed with this purchase. The external SSD feels horrible and data transfer rate constantly fails.,negative
+1072,Do not waste your money on this smart thermostat. Plenty of terrific alternatives available for cheaper.,negative
+1073,Terrible smart thermostat! Stopped working after two weeks and customer support was completely useless.,negative
+1074,Incredible value for money! I have recommended this webcam to all my colleagues.,positive
+1075,The webcam stopped charging after three days. Complete waste of hard-earned money.,negative
+1076,"Not worth the money, plenty of better alternatives available.",negative
+1077,Incredible value for money! I have recommended this smart thermostat to all my colleagues.,positive
+1078,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+1079,"Exceeded expectations in every regard. High quality materials, premium sound, and sleek finish.",positive
+1080,":( Great external SSD for the price. Fast delivery, terrific customer support, and very reliable. </p>",positive
+1081,Super clean interface and delightful performance. The ergonomic design makes daily workflow effortless.,positive
+1082,The smartphone is impressive! touchscreen response works flawlessly and exceeded all my expectations.,positive
+1083,Absolutely love this external SSD. It has brilliant build quality and software ecosystem is seamless.,positive
+1084,<p> Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+1085,"The build is solid, the touchscreen response is intuitive, and it looks beautiful on my desk.",positive
+1086,"... Poor performance, terrible build quality, and zero customer support. Avoid at all costs!  :(",negative
+1087,<br /> Brilliant design and fantastic execution. Everything works straight out of the box with zero fuss. <p>,positive
+1088,Arrived cheap with missing parts. Return process was frustrating and slow.,negative
+1089,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+1090,"Exceeded expectations in every regard. High quality materials, fantastic sound, and sleek finish.",positive
+1091,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+1092,<b> Outstanding performance! connectivity is super fast and battery life lasts all day without issues.  :),positive
+1093,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+1094,<br /> Misleading product description! The microphone lacks the advertised software ecosystem and battery drains fast. ...,negative
+1095,<p> Absolutely love this office chair. It has premium build quality and charging speed is seamless.,positive
+1096,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+1097,Absolutely love this smartwatch. It has premium build quality and display brightness is seamless.,positive
+1098,Absolutely love this webcam. It has reliable build quality and touchscreen response is seamless.,positive
+1099,Brilliant design and reliable execution. Everything works straight out of the box with zero fuss.,positive
+1100,Brilliant design and wonderful execution. Everything works straight out of the box with zero fuss.,positive
+1101,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+1102,"Exceeded expectations in every regard. High quality materials, phenomenal sound, and sleek finish.",positive
+1103,</p> Super clean interface and fantastic performance. The noise isolation makes daily workflow effortless. <p>,positive
+1104,"Great webcam for the price. Fast delivery, phenomenal customer support, and very reliable.",positive
+1105,... The smart thermostat is durable! ergonomic design works wonderfully and exceeded all my expectations. <br />,positive
+1106,:( Do not waste your money on this robot vacuum. Plenty of top-notch alternatives available for cheaper.  :),negative
+1107,:( Delivered promptly and functioned flawlessly from day one. Truly a fantastic product! </p>,positive
+1108,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+1109,Outstanding performance! build craftsmanship is super fast and battery life lasts all day without issues.,positive
+1110,Absolutely love this power bank. It has superb build quality and sound quality is seamless.,positive
+1111,:( Best purchase I have made all year! Top-tier build craftsmanship and the quality feels extremely durable. !!,positive
+1112,"Exceeded expectations in every regard. High quality materials, exceptional sound, and sleek finish.",positive
+1113,</b> Arrived defective with missing parts. Return process was frustrating and slow. <b>,negative
+1114,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+1115,The noise-canceling headphones is phenomenal! noise isolation works flawlessly and exceeded all my expectations.,positive
+1116,Super clean interface and fantastic performance. The ergonomic design makes daily workflow effortless.,positive
+1117,Brilliant design and delightful execution. Everything works straight out of the box with zero fuss.,positive
+1118,Do not waste your money on this wireless earbuds. Plenty of impressive alternatives available for cheaper.,negative
+1119,"The build is solid, the connectivity is intuitive, and it looks beautiful on my desk.",positive
+1120,"The build is solid, the ergonomic design is intuitive, and it looks beautiful on my desk.",positive
+1121,Brilliant design and premium execution. Everything works straight out of the box with zero fuss.,positive
+1122,"Exceeded expectations in every regard. High quality materials, reliable sound, and sleek finish.",positive
+1123,Do not waste your money on this laptop. Plenty of reliable alternatives available for cheaper.,negative
+1124,Five stars! The noise-canceling headphones arrived earlier than promised and was packaged with great care.,positive
+1125,A game-changer for my daily productivity. build craftsmanship saves me hours every single week.,positive
+1126,Outstanding performance! display brightness is super fast and battery life lasts all day without issues.,positive
+1127,<br /><br /> A game-changer for my daily productivity. software ecosystem saves me hours every single week. ...,positive
+1128,The fitness tracker is premium! setup process works wonderfully and exceeded all my expectations.,positive
+1129,"Received as expected. It does the job adequately, neither impressive nor terrible.",neutral
+1130,"<b> Poor performance, terrible build quality, and zero customer support. Avoid at all costs! <br /><br />",negative
+1131,Outstanding performance! build craftsmanship is super fast and battery life lasts all day without issues.,positive
+1132,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+1133,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+1134,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+1135,"The build is solid, the data transfer rate is intuitive, and it looks beautiful on my desk.",positive
+1136,<b> Do not waste your money on this smartwatch. Plenty of premium alternatives available for cheaper. ...,negative
+1137,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+1138,"</b> Flimsy materials, noisy operation, and the display brightness barely functions. Very unhappy. !!",negative
+1139,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+1140,Do not waste your money on this coffee maker. Plenty of wonderful alternatives available for cheaper.,negative
+1141,"</p> The build is solid, the charging speed is intuitive, and it looks beautiful on my desk.  :)",positive
+1142,"<p> Great laptop for the price. Fast delivery, impressive customer support, and very reliable.",positive
+1143,:) Absolutely love this microphone. It has wonderful build quality and data transfer rate is seamless. </b>,positive
+1144,The mechanical keyboard stopped charging after three days. Complete waste of hard-earned money.,negative
+1145,"Received as expected. It does the job adequately, neither impressive nor terrible.",neutral
+1146,Absolutely love this coffee maker. It has wonderful build quality and data transfer rate is seamless.,positive
+1147,"Flimsy materials, noisy operation, and the noise isolation barely functions. Very unhappy.",negative
+1148,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+1149,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+1150,Do not waste your money on this robot vacuum. Plenty of durable alternatives available for cheaper.,negative
+1151,!! Best purchase I have made all year! Top-tier touchscreen response and the quality feels extremely durable. </p>,positive
+1152,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+1153,Customer service was rude and refused to issue a refund for the defective gaming mouse.,negative
+1154,"<br /> I was hesitant at first, but this office chair turned out to be flawless. Highly recommend to everyone!  :(",positive
+1155,"The build is solid, the connectivity is intuitive, and it looks beautiful on my desk.",positive
+1156,"Exceeded expectations in every regard. High quality materials, durable sound, and sleek finish.",positive
+1157,"Decent build, but the touchscreen response could be improved. Fair for the discounted price.",neutral
+1158,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+1159,<br /><br /> Do not waste your money on this fitness tracker. Plenty of delightful alternatives available for cheaper. !!,negative
+1160,:( The external SSD stopped charging after three days. Complete waste of hard-earned money. </b>,negative
+1161,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+1162,The coffee maker is phenomenal! software ecosystem works smoothly and exceeded all my expectations.,positive
+1163,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+1164,"Decent build, but the build craftsmanship could be improved. Fair for the discounted price.",neutral
+1165,Best purchase I have made all year! Top-tier data transfer rate and the quality feels extremely durable.,positive
+1166,A game-changer for my daily productivity. data transfer rate saves me hours every single week.,positive
+1167,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+1168,Subpar quality that does not justify the high price tag. Very dissatisfied. <br />,negative
+1169,Absolutely love this smart thermostat. It has flawless build quality and setup process is seamless.,positive
+1170,"Flimsy materials, noisy operation, and the touchscreen response barely functions. Very unhappy.",negative
+1171,"Exceeded expectations in every regard. High quality materials, reliable sound, and sleek finish.",positive
+1172,"Flimsy materials, noisy operation, and the touchscreen response barely functions. Very unhappy.",negative
+1173,Do not waste your money on this smart thermostat. Plenty of phenomenal alternatives available for cheaper.,negative
+1174,Misleading product description! The smartwatch lacks the advertised ergonomic design and battery drains fast.,negative
+1175,Arrived frustrating with missing parts. Return process was frustrating and slow.,negative
+1176,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+1177,"Great smart thermostat for the price. Fast delivery, superb customer support, and very reliable.",positive
+1178,"Exceeded expectations in every regard. High quality materials, reliable sound, and sleek finish.",positive
+1179,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+1180,... Customer service was rude and refused to issue a refund for the defective smart thermostat. !!,negative
+1181,Absolutely love this noise-canceling headphones. It has top-notch build quality and sound quality is seamless.,positive
+1182,Misleading product description! The wireless earbuds lacks the advertised noise isolation and battery drains fast.,negative
+1183,"Exceeded expectations in every regard. High quality materials, brilliant sound, and sleek finish.",positive
+1184,!! Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes. !!,positive
+1185,!! Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.  :(,positive
+1186,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+1187,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+1188,Terrible laptop! Stopped working after ten days and customer support was completely useless.,negative
+1189,"Exceeded expectations in every regard. High quality materials, delightful sound, and sleek finish.",positive
+1190,Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.,positive
+1191,Super clean interface and brilliant performance. The data transfer rate makes daily workflow effortless.,positive
+1192,Unusable software and complicated setup instructions. Totally regret buying this.,negative
+1193,Absolutely love this noise-canceling headphones. It has delightful build quality and ergonomic design is seamless.,positive
+1194,The tablet stopped charging after three days. Complete waste of hard-earned money.,negative
+1195,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+1196,"Great wireless earbuds for the price. Fast delivery, top-notch customer support, and very reliable.",positive
+1197,The office chair is wonderful! touchscreen response works wonderfully and exceeded all my expectations.,positive
+1198,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+1199,Best purchase I have made all year! Top-tier charging speed and the quality feels extremely durable.,positive
+1200,"Exceeded expectations in every regard. High quality materials, phenomenal sound, and sleek finish.",positive
+1201,"Exceeded expectations in every regard. High quality materials, brilliant sound, and sleek finish.",positive
+1202,Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+1203,The wireless earbuds stopped charging after three days. Complete waste of hard-earned money.,negative
+1204,Arrived subpar with missing parts. Return process was frustrating and slow.,negative
+1205,"Standard shipping and ordinary packaging. It works as described, no major complaints.",neutral
+1206,Cheap plastic construction and poor quality control. Broke during the very first week.,negative
+1207,Absolutely love this mechanical keyboard. It has superb build quality and build craftsmanship is seamless.,positive
+1208,<p> Overheating issues and constant software crashes. Definitely returning this tomorrow. <p>,negative
+1209,Terrible monitor! Stopped working after ten days and customer support was completely useless.,negative
+1210,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+1211,<p> Cheap plastic construction and poor quality control. Broke during the very first week. ...,negative
+1212,</b> Do not waste your money on this wireless earbuds. Plenty of phenomenal alternatives available for cheaper.  :(,negative
+1213,!! Brilliant design and superb execution. Everything works straight out of the box with zero fuss.  :(,positive
+1214,The coffee maker stopped charging after three days. Complete waste of hard-earned money.,negative
+1215,Best purchase I have made all year! Top-tier charging speed and the quality feels extremely durable.,positive
+1216,</b> Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!  :),positive
+1217,The smartphone is premium! noise isolation works effortlessly and exceeded all my expectations.,positive
+1218,Absolutely love this monitor. It has superb build quality and sound quality is seamless.,positive
+1219,<p> Very disappointed with this purchase. The smartwatch feels cheap and touchscreen response constantly fails. </p>,negative
+1220,"The build is solid, the noise isolation is intuitive, and it looks beautiful on my desk.",positive
+1221,Customer service was rude and refused to issue a refund for the defective noise-canceling headphones.,negative
+1222,:) Absolutely love this fitness tracker. It has flawless build quality and battery life is seamless. </p>,positive
+1223,Five stars! The smartphone arrived earlier than promised and was packaged with great care.,positive
+1224,<p> Worst experience ever. Delivery was delayed by two weeks and package arrived crushed.,negative
+1225,Customer service was rude and refused to issue a refund for the defective tablet.,negative
+1226,Brilliant design and wonderful execution. Everything works straight out of the box with zero fuss.,positive
+1227,Best purchase I have made all year! Top-tier ergonomic design and the quality feels extremely durable.,positive
+1228,Customer support helped resolve my setup question within ten minutes.,positive
+1229,Outstanding performance! ergonomic design is super fast and battery life lasts all day without issues.,positive
+1230,"I was hesitant at first, but this smartphone turned out to be durable. Highly recommend to everyone!",positive
+1231,<br /> Misleading product description! The smartwatch lacks the advertised battery life and battery drains fast.  :(,negative
+1232,:( Misleading product description! The mechanical keyboard lacks the advertised data transfer rate and battery drains fast. ...,negative
+1233,:) Arrived dreadful with missing parts. Return process was frustrating and slow. ...,negative
+1234,Arrived unreliable with missing parts. Return process was frustrating and slow.,negative
+1235,"Poor performance, terrible build quality, and zero customer support. Avoid at all costs!",negative
+1236,Terrible monitor! Stopped working after two days and customer support was completely useless.,negative
+1237,Super clean interface and top-notch performance. The data transfer rate makes daily workflow effortless.,positive
+1238,Overheating issues and constant software crashes. Definitely returning this tomorrow.,negative
+1239,Subpar quality that does not justify the high price tag. Very dissatisfied.,negative
+1240,Delivered promptly and functioned flawlessly from day one. Truly a fantastic product!,positive
+1241,Arrived awful with missing parts. Return process was frustrating and slow.,negative
+1242,<br /><br /> Outstanding performance! charging speed is super fast and battery life lasts all day without issues. </b>,positive
+1243,<br /><br /> Absolutely love this webcam. It has terrific build quality and touchscreen response is seamless.,positive
+1244,"I was hesitant at first, but this tablet turned out to be terrific. Highly recommend to everyone!",positive
+1245,<br /> The gaming mouse stopped charging after three days. Complete waste of hard-earned money. !!,negative
+1246,<p> The build craftsmanship is completely broken and lags terribly. Extremely frustrated with this item. <p>,negative
+1247,Misleading product description! The external SSD lacks the advertised display brightness and battery drains fast.,negative
+1248,<p> Very impressed with the responsiveness of customer service. Resolved my setup issue in minutes.  :(,positive
+1249,Customer service was rude and refused to issue a refund for the defective microphone. <b>,negative
+1250,"The build is solid, the display brightness is intuitive, and it looks beautiful on my desk.",positive
