@@ -1,9 +1,10 @@
 # Datheon Machine Learning & Data Science Internship
 
-**Author:** Datheon ML Intern  
+**Author:** Priteesh Mistry  
 **Repository Name:** `Datheon_Machine_Learning_-_Data_Science_Internship`  
+**Repository URL:** [https://github.com/priteeshmistry/Datheon_Machine_Learning_-_Data_Science_Internship](https://github.com/priteeshmistry/Datheon_Machine_Learning_-_Data_Science_Internship)  
 **Internship Organization:** Datheon  
-**Submission Status:** ALL 4 TASKS COMPLETED
+**Submission Status:** ALL 4 TASKS COMPLETED, VERIFIED & SUBMISSION-READY
 
 
 ---
@@ -13,7 +14,7 @@
 This repository contains the complete portfolio of machine learning, regression, classification, and natural language processing projects developed during the **Datheon Machine Learning & Data Science Internship**. Every single one of the 4 syllabus tasks is organized as an independent, fully reproducible module containing production Python pipelines, executed Jupyter Notebooks with pre-rendered base64 diagnostic plots and mathematical formulations, technical markdown documentation, and published 300 DPI visual artifacts.
 
 ```text
-Datheon_Machine_Learning_&_Data_Science_Internship/
+Datheon_Machine_Learning_-_Data_Science_Internship/
 │
 ├── Task-1_Iris_Classification/
 │   ├── Task_1_Iris_Classification.ipynb   # Executed Jupyter Notebook with inline visualizations
@@ -145,8 +146,8 @@ All pipelines are compatible with Python 3.10+ and standard data science environ
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Datheon_Machine_Learning_&_Data_Science_Internship.git
-cd Datheon_Machine_Learning_&_Data_Science_Internship
+git clone https://github.com/priteeshmistry/Datheon_Machine_Learning_-_Data_Science_Internship.git
+cd Datheon_Machine_Learning_-_Data_Science_Internship
 ```
 
 ### 2. Install Required Dependencies
@@ -181,7 +182,7 @@ python build_and_run_task4.py
 - [x] **Task 2 Completed:** Real Estate Housing Price Prediction (Ridge & Lasso Regression)
 - [x] **Task 3 Completed:** Predictive Customer Churn Classifier (Random Forest & XGBoost)
 - [x] **Task 4 Completed:** NLP Sentiment Classification on Customer Reviews (TF-IDF)
-- [x] **Repository Named:** `Datheon_Machine_Learning_&_Data_Science_Internship`
+- [x] **Repository Named:** `Datheon_Machine_Learning_-_Data_Science_Internship`
 - [x] **Clear Folder Structure:** 4 self-contained task folders with executed notebooks, scripts, datasets, and documentation
 - [x] **Pre-rendered Visualizations:** All plots embedded inside `.ipynb` notebooks and saved in `visualizations/`
 - [x] **All Performance Criteria Exceeded:** Task 1 (100%), Task 2 ($R^2=0.6483$), Task 3 (ROC-AUC > 84% vs >80% target), Task 4 (100% Accuracy)
