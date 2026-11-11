@@ -1,7 +1,7 @@
 # Datheon Machine Learning & Data Science Internship
 
 **Author:** Datheon ML Intern  
-**Repository Name:** `Datheon_Machine_Learning_&_Data_Science_Internship`  
+**Repository Name:** `Datheon_Machine_Learning_-_Data_Science_Internship`  
 **Internship Organization:** Datheon  
 **Submission Status:** ALL 4 TASKS COMPLETED, VERIFIED & SUBMISSION-READY  
 
